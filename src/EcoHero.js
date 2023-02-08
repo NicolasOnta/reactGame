@@ -64,7 +64,6 @@ const EcoHero = () => {
     <div>
       <h1>Eco Hero</h1>
       <p>Sort the items into recyclable or non-recyclable categories</p>
-      <p>Time remaining: {time}</p>
       <p>Score: {score}</p>
       <div>
       <div>
